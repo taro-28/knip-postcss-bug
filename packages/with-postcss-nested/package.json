@@ -1,0 +1,7 @@
+{
+  "name": "with-postcss-nested",
+  "devDependencies": {
+    "postcss": "^8",
+    "postcss-nested": "^6.2.0"
+  }
+}

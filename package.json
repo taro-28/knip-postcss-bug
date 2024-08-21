@@ -1,0 +1,12 @@
+{
+  "name": "knip-fix-example",
+  "scripts": {
+    "knip": "knip"
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "dependencies": {
+    "knip": "^5.27.2"
+  }
+}
